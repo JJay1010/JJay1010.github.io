@@ -17,16 +17,52 @@ Hello, I am an undergraudate student in Sungkyunkwan University(SKKU). I’m dou
 * Green Computing 
 
 ## Education
-* Sungkyunkwan University (SKKU), Seoul, Korea
-    Undergraduate Student (Mar.2020 - present)
+* Sungkyunkwan University (SKKU), Seoul, Korea <br>
+    Undergraduate Student ( Mar.2020 - present ) <br>
+    • Bachelor of Science in Department of Computer Science and Engineering <br>
+    •	Bachelor of Science in Department of Chemistry <br>
+    •	GPA 4.32/4.5 (98.2/100) <br>
 
-    `---` • Bachelor of Science in Department of Computer Science and Engineering
-    •	Bachelor of Science in Department of Chemistry
-    •	GPA 4.32/4.5 (98.2/100)
+* University of British Columbia (UBC), Vancouver, Canada <br>
+    Exchange Student ( Jan. 2022 – April. 2022 ) <br>
 
-* University of British Columbia (UBC), Vancouver, Canada
-    Exchange Student (Jan. 2022 – April. 2022)
-    
+## Research Experience
+* [Computer System Laboratory] (http://csl.skku.edu/) `Sungkyunkwan University` <br>
+   • Research Assistant ( Oct. 2023 - present )  <br>
+   • Advised by Prof.Euiseong Seo <br>
+
+  -- Explore new implementation to enhance the scalability of Kubernetes
+
+* [Paeng Lab] (https://sites.google.com/site/paenggroup) `Sungkyunkwan University` <br>
+   • Research Assistant ( Mar. 2023 - June. 2023 ) <br>
+   • Advised by Prof.Keewook Paeng <br>
+
+  -- Examined the mobility changes in crystallization of Bathophenanthroline(BPhen) with varying concentrations of 8-Quinolinolato lithium(Liq)
+
+## Honors & Awards
+* Top Prize in Learning Fair of Problem Solving and Algorithm, Sungkyunkwan University, 2020 <br>
+* Third Prize in K-software Empowerment BootCamp project, Sungkyunkwan University, 2023 <br>
+
+* Academic Excellence Scholarship, Sungkyunkwan University, 2020, 2021, 2022 <br>
+* Global Center One-hundred-million Club Scholarship, Sungkyunkwan University, 2022 <br>
+* Alumni Scholarship of Department of Chemistry, Sungkyunkwan University, 2023 <br>
+* Student Success Scholarship, Sungkyunkwan University, 2023 <br>
+
+## Technical Skills
+* Languages 
+  C, C++, Python, Java, Kotlin, HTML, CSS, JavaScript, SQL <br>
+* Frameworks
+  Flask, Django <br>
+* Developer Tools
+  AWS Lambda, Amazon RDS <br>
+* Libraries
+  Pythorch, Tensorflow, jQuery, Ajax <br>
+* Applications
+  MySQL <br>
+
+<br>
+If you are interested in me or doing something magical with me, free free to [contact me](ejkang00@gmail.com)
+<br>
     
 <!--
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
