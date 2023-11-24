@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Welcome"
-date:   2023-11-24 23:22:33 +0900
+title:  "Welcome to Jekyll!"
+date:   2023-11-22 23:22:33 +0900
 categories: jekyll update
 ---
 
 I'm currently moving my personal page ! Please click Documentation on the left. <br>
+<br>
+<br>
+<br>
+
 <!--
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

@@ -18,24 +18,24 @@ Hello, I am an undergraudate student in Sungkyunkwan University(SKKU). I’m dou
 
 ## Education
 * Sungkyunkwan University (SKKU) `Seoul, Korea` <br>
-    Undergraduate Student &nsbp&nsbp&nsbp&nsbp( Mar. 2020 - present ) <br>
+    Undergraduate Student     ( Mar. 2020 - present ) <br>
     • Bachelor of Science in Department of Computer Science and Engineering <br>
     •	Bachelor of Science in Department of Chemistry <br>
     •	GPA 4.32/4.5 (98.2/100) <br>
 
 * University of British Columbia (UBC) `Vancouver, Canada` <br>
-    Exchange Student &nsbp&nsbp&nsbp&nsbp ( Jan. 2022 – April. 2022 ) <br>
+    Exchange Student      ( Jan. 2022 – April. 2022 ) <br>
 
 ## Research Experience
 * Computer System Laboratory `Sungkyunkwan University` <br>
-   • Research Assistant &nsbp&nsbp&nsbp&nsbp ( Oct. 2023 - present )  <br>
+   • Research Assistant      ( Oct. 2023 - present )  <br>
    • Advised by Prof.Euiseong Seo <br>
    • http://csl.skku.edu/ <br>
 
   -- Explore new implementation to enhance the scalability of Kubernetes
 
 * Paeng Lab `Sungkyunkwan University` <br>
-   • Research Assistant &nsbp&nsbp&nsbp&nsbp ( Mar. 2023 - June. 2023 ) <br>
+   • Research Assistant      ( Mar. 2023 - June. 2023 ) <br>
    • Advised by Prof.Keewook Paeng <br>
    • https://sites.google.com/site/paenggroup <br>
 
@@ -51,15 +51,15 @@ Hello, I am an undergraudate student in Sungkyunkwan University(SKKU). I’m dou
 * Student Success Scholarship, Sungkyunkwan University, 2023 <br>
 
 ## Technical Skills
-* Languages :&nsbp
+* Languages :
   C, C++, Python, Java, Kotlin, HTML, CSS, JavaScript, SQL <br>
-* Frameworks :&nsbp
+* Frameworks :
   Flask, Django <br>
-* Developer Tools :&nsbp
+* Developer Tools :
   AWS Lambda, Amazon RDS <br>
-* Libraries :&nsbp
+* Libraries :
   Pythorch, Tensorflow, jQuery, Ajax <br>
-* Applications :&nsbp
+* Applications :
   MySQL <br>
 
 <br>
