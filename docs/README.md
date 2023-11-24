@@ -7,6 +7,10 @@ hide_description: true
 sitemap: false
 permalink: /docs/
 ---
+
+## Intro
+Hello, I am an undergraudate student in Sungkyunkwan University(SKKU). I’m double majoring Computer Science and Chemistry, expected to finish at August 2024. After graudation, I’m planning to pursue graudate degree. I’m currently submitting application to graudate programs in US!
+
 <!--
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
