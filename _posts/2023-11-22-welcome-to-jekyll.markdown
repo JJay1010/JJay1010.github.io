@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome"
 date:   2023-11-24 23:22:33 +0900
-categories: update
+categories: jekyll update
 ---
 
 I'm currently moving my personal page ! Please click Documentation on the left. <br>
