@@ -42,19 +42,19 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Eunju Kang
+  email:               ejkang00@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Not Yet
-    url:               /example/
+  #- title:             Not Yet
+  #  url:               /example/
   - title:             Documentation
     url:               /docs/
-  - title:             About
-    url:               /about/
+  #- title:             About
+  #  url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

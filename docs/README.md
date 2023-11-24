@@ -17,25 +17,27 @@ Hello, I am an undergraudate student in Sungkyunkwan University(SKKU). I’m dou
 * Green Computing 
 
 ## Education
-* Sungkyunkwan University (SKKU), Seoul, Korea <br>
-    Undergraduate Student ( Mar.2020 - present ) <br>
+* Sungkyunkwan University (SKKU) `Seoul, Korea` <br>
+    Undergraduate Student &nsbp&nsbp&nsbp&nsbp( Mar. 2020 - present ) <br>
     • Bachelor of Science in Department of Computer Science and Engineering <br>
     •	Bachelor of Science in Department of Chemistry <br>
     •	GPA 4.32/4.5 (98.2/100) <br>
 
-* University of British Columbia (UBC), Vancouver, Canada <br>
-    Exchange Student ( Jan. 2022 – April. 2022 ) <br>
+* University of British Columbia (UBC) `Vancouver, Canada` <br>
+    Exchange Student &nsbp&nsbp&nsbp&nsbp ( Jan. 2022 – April. 2022 ) <br>
 
 ## Research Experience
-* [Computer System Laboratory] (http://csl.skku.edu/) `Sungkyunkwan University` <br>
-   • Research Assistant ( Oct. 2023 - present )  <br>
+* Computer System Laboratory `Sungkyunkwan University` <br>
+   • Research Assistant &nsbp&nsbp&nsbp&nsbp ( Oct. 2023 - present )  <br>
    • Advised by Prof.Euiseong Seo <br>
+   • http://csl.skku.edu/ <br>
 
   -- Explore new implementation to enhance the scalability of Kubernetes
 
-* [Paeng Lab] (https://sites.google.com/site/paenggroup) `Sungkyunkwan University` <br>
-   • Research Assistant ( Mar. 2023 - June. 2023 ) <br>
+* Paeng Lab `Sungkyunkwan University` <br>
+   • Research Assistant &nsbp&nsbp&nsbp&nsbp ( Mar. 2023 - June. 2023 ) <br>
    • Advised by Prof.Keewook Paeng <br>
+   • https://sites.google.com/site/paenggroup <br>
 
   -- Examined the mobility changes in crystallization of Bathophenanthroline(BPhen) with varying concentrations of 8-Quinolinolato lithium(Liq)
 
@@ -49,19 +51,19 @@ Hello, I am an undergraudate student in Sungkyunkwan University(SKKU). I’m dou
 * Student Success Scholarship, Sungkyunkwan University, 2023 <br>
 
 ## Technical Skills
-* Languages 
+* Languages :&nsbp
   C, C++, Python, Java, Kotlin, HTML, CSS, JavaScript, SQL <br>
-* Frameworks
+* Frameworks :&nsbp
   Flask, Django <br>
-* Developer Tools
+* Developer Tools :&nsbp
   AWS Lambda, Amazon RDS <br>
-* Libraries
+* Libraries :&nsbp
   Pythorch, Tensorflow, jQuery, Ajax <br>
-* Applications
+* Applications :&nsbp
   MySQL <br>
 
 <br>
-If you are interested in me or doing something magical with me, free free to [contact me](ejkang00@gmail.com)
+If you are interested, free free to contact me !
 <br>
     
 <!--
