@@ -9,8 +9,25 @@ permalink: /docs/
 ---
 
 ## Intro
-Hello, I am an undergraudate student in Sungkyunkwan University(SKKU). I’m double majoring Computer Science and Chemistry, expected to finish at August 2024. After graudation, I’m planning to pursue graudate degree. I’m currently submitting application to graudate programs in US!
+Hello, I am an undergraudate student in Sungkyunkwan University(SKKU). I’m double majoring Computer Science and Chemistry, expected to finish at August 2024. After graudation, I’m planning to pursue graudate degree. I’m currently submitting application to graudate programs in US for Fall 2024 !
 
+## Research Interest
+* System for ML, ML for System
+* Cloud Computing
+* Green Computing 
+
+## Education
+* Sungkyunkwan University (SKKU), Seoul, Korea
+    Undergraduate Student (Mar.2020 - present)
+
+    `---` • Bachelor of Science in Department of Computer Science and Engineering
+    •	Bachelor of Science in Department of Chemistry
+    •	GPA 4.32/4.5 (98.2/100)
+
+* University of British Columbia (UBC), Vancouver, Canada
+    Exchange Student (Jan. 2022 – April. 2022)
+    
+    
 <!--
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
